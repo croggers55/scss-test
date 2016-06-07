@@ -1,0 +1,9 @@
+ul li {
+  padding-left: 1em;
+  background: url("../images/chevron.svg") no-repeat 0 0.4em;
+  list-style: none;
+  overflow-x: auto; }
+  ul li a {
+    font-weight: bold; }
+
+/*# sourceMappingURL=test.css.map */
