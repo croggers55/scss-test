@@ -1,0 +1,28 @@
+{
+  "name": "test-scss-compiling",
+  "version": "0.1.0",
+  "description": "Just a test of SCSS compiling",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/croggers55/scss-test.git"
+  },
+  "author": "Craig Farris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/croggers55/scss-test/issues"
+  },
+  "homepage": "https://github.com/croggers55/scss-test#readme"
+}

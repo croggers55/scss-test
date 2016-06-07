@@ -1,0 +1,7 @@
+{
+  "name": "testing-scss-compilation",
+  "version": "0.1.0",
+  "description": "Just a test",
+  "main": "Gruntfile.js",
+  "author": "Craig Farris"
+}
